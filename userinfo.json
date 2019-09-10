@@ -1,3 +1,5 @@
 {
-  "sub": "ffdcuser12"
+  "sub": "ffdcuser12",
+  "given_name": "Bob",
+  "family_name": "Smith"
 }
